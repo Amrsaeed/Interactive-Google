@@ -1,0 +1,17 @@
+welcome: Welcome to Interactive Google, your interactive gate to the world.
+
+noResult: I have found no results about {query}.
+
+repeatQuery: I did not get that, can you repeat?
+
+queryFound: I have found information about {query}. Shall I read it for you?
+
+resultHeading: Result number {{headingNumber}} is {{headingTitle}},, found on {{headingSource}}
+
+readText: {text}
+
+noTextFound: I did not find a text in this result. A card has been sent to your phone.
+
+backToResults: You stopped at result {{headingNumber}}. Do you want to continue reading?
+
+badArgument: Sorry! I cannot do that
